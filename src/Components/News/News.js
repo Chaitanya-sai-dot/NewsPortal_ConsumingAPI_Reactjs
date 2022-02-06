@@ -13,7 +13,7 @@ class News extends Component {
   }
 
   componentDidMount() {
-    const url = `https://newsapi.org/v2/${this.props.news.type}?${this.props.news.query}&apiKey=66cc387297fd40a1a8bc592cb3e80a7e`;
+    const url = `https://newsapi.org/v2/${this.props.news.type}?${this.props.news.query}&apiKey=key_value`;
     axios.get(url)
       .then((response) => {
         this.setState({
