@@ -14,7 +14,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
-### Get started using the APIs in four steps:
+# Get started using the APIs in four steps:
 
 Create an Account
 If you don't already have an account create one:
